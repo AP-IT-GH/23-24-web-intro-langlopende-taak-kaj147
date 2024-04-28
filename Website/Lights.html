@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="nl-BE">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smarth2Home</title>
+  <link rel="icon" type="image/x-icon" href="./assets/logo.png">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous" defer></script>
+  <link rel="stylesheet" href="./css/style.css">
+  
+</head>
+
+<body class="px-3 pt-1 m-0 border-0 bd-example">
+  <nav class="navbar navbar-expand-md navcolor sticky-top rounded">
+    <div class="container-fluid">
+      <img class="rounded float-start" src="./assets/logo.png" alt="Smarthouse" width="80px" height="80px">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link navtextcolor" href="./index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link navtextcolor" href="./dashboard.html">Dashboard</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link navtextcolor" href="./shop.html">Shop</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link navtextcolor" href="./contact.html">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link navtextcolor" href="./About.html">About</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <nav class="navbar navcolor sidenav p-2">
+    <div class="container-fluid">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href=""><b>Lights</b></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./Shutter.html">Shutter</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./Audio.html">Audio</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <br>
+  <div class="container p-5">
+    <main>
+      <div class="text">
+        <h1 class="text-center pt-3">
+          <img src="./assets/Light on.png" class="float-start img-fluid" height="100px" width="100px">
+          Lights
+          <img src="./assets/Light off.png" class="float-end img-fluid" height="100px" width="100px">
+          <hr>
+        </h1>
+        <br>
+        <section class="p-3 text" style="font-size: larger;">
+          <p>
+            <span class="text-start">Kitchen Lights</span><span class="float-end">On <input type="checkbox" checked class="checkbox"></span> 
+          </p>
+          <p>
+            <span class="text-start">Dinning room Lights</span><span class="float-end">On <input type="checkbox" checked class="checkbox"></span>
+          </p>
+          <p>
+            <span class="text-start">Living room Lights</span><span class="float-end">Off <input type="checkbox" class="checkbox"></span>
+          </p>
+          <p>
+            <span class="text-start">Office Lights</span><span class="float-end">On <input type="checkbox" class="checkbox" checked></span>
+          </p>
+          <p class="text-start">
+            <span class="text-start">Bedroom Lights</span><span class="float-end">Off <input type="checkbox" class="checkbox"></span>
+          </p>
+        </section>
+      </div>
+    </main>
+  </div>
+</body>

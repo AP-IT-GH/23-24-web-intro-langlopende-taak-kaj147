@@ -1,0 +1,98 @@
+body {
+  box-sizing: border-box;
+  background: rgb(5, 6, 6);
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(184, 116, 97);
+  height: 100%;
+  width: 100%;
+}
+
+.nav-link:hover {
+  text-decoration: none;
+  color: #e0dedc;
+}
+
+.activenav
+{
+  color: #e0dedc;
+}
+
+.navcolor
+{
+  background: linear-gradient(45deg, rgb(0, 0, 139), rgb(17, 0, 48));
+  color: rgba(197, 195, 193, 0.65);
+}
+
+.navtextcolor
+{
+  color: rgba(197, 195, 193, 0.65);
+}
+
+.mainbackcolor{
+  background-color: #020288;
+}
+
+.maincolor{
+  color: rgb(105, 145, 215);
+}
+
+.text
+{
+  background-color: rgb(10, 11, 11);
+}
+
+.img-small 
+{
+  height: 100px;
+  width: 100px;
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-left: 0px;
+  padding-bottom: 20px;
+}
+
+.addcart
+{
+  height: 20px;
+  width: 20px;
+}
+
+.sidenav {
+  width: 130px;
+  position: fixed;
+  z-index: 1;
+  left: 10px;
+  background: transparent;
+  overflow-x: hidden;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #2196F3;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #064579;
+}
+
+.activesidenav
+{
+  color: #ececec;
+}
+
+.main {
+  margin-left: 140px;
+  font-size: 28px;
+  padding: 0px 10px;
+}
+
+.checkbox
+{
+  height: 20px; 
+  width: 20px;
+}
