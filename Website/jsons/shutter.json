@@ -1,0 +1,26 @@
+[
+  {
+    "room": "Keuken",
+    "lightState": true
+  },
+  {
+    "room": "Eetkamer",
+    "lightState": true
+  },
+  {
+    "room": "Living",
+    "lightState": true
+  },
+  {
+    "room": "Bureau",
+    "lightState": false
+  },
+  {
+    "room": "Badkamer",
+    "lightState": true
+  },
+  {
+    "room": "Slaapkamer",
+    "lightState": true
+  }
+]

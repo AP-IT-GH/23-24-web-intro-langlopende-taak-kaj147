@@ -1,0 +1,26 @@
+[
+  {
+    "room": "Keuken",
+    "temp": 19
+  },
+  {
+    "room": "Eetkamer",
+    "temp": 20
+  },
+  {
+    "room": "Living",
+    "temp": 16
+  },
+  {
+    "room": "Bureau",
+    "temp": 20
+  },
+  {
+    "room": "Badkamer",
+    "temp": 23
+  },
+  {
+    "room": "Slaapkamer",
+    "temp": 16
+  }
+]

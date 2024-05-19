@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|c:\\users\\christophe\\desktop\\programs\\school\\webtechnologie\\webtech-project\\api\\api webtech\\api webtech\\heat\\heatrangen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|solutionrelative:api webtech\\heat\\heatrangen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|c:\\users\\christophe\\desktop\\programs\\school\\webtechnologie\\webtech-project\\api\\api webtech\\api webtech\\interfaces\\heat\\heating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|solutionrelative:api webtech\\interfaces\\heat\\heating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|c:\\users\\christophe\\desktop\\programs\\school\\webtechnologie\\webtech-project\\api\\api webtech\\api webtech\\car\\caraccu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|solutionrelative:api webtech\\car\\caraccu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|c:\\users\\christophe\\desktop\\programs\\school\\webtechnologie\\webtech-project\\api\\api webtech\\api webtech\\service\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|solutionrelative:api webtech\\service\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|c:\\users\\christophe\\desktop\\programs\\school\\webtechnologie\\webtech-project\\api\\api webtech\\api webtech\\audio\\currentaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|solutionrelative:api webtech\\audio\\currentaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|c:\\users\\christophe\\desktop\\programs\\school\\webtechnologie\\webtech-project\\api\\api webtech\\api webtech\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|solutionrelative:api webtech\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|c:\\users\\christophe\\desktop\\programs\\school\\webtechnologie\\webtech-project\\api\\api webtech\\api webtech\\controllers\\shuttercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4AA9279-F5D4-4138-B6B4-C6587D022D5D}|API WebTech\\API WebTech.csproj|solutionrelative:api webtech\\controllers\\shuttercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Heating.cs",
+              "DocumentMoniker": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Interfaces\\Heat\\Heating.cs",
+              "RelativeDocumentMoniker": "API WebTech\\Interfaces\\Heat\\Heating.cs",
+              "ToolTip": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Interfaces\\Heat\\Heating.cs",
+              "RelativeToolTip": "API WebTech\\Interfaces\\Heat\\Heating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:42:24.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeatRanGen.cs",
+              "DocumentMoniker": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Heat\\HeatRanGen.cs",
+              "RelativeDocumentMoniker": "API WebTech\\Heat\\HeatRanGen.cs",
+              "ToolTip": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Heat\\HeatRanGen.cs",
+              "RelativeToolTip": "API WebTech\\Heat\\HeatRanGen.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:41:44.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrentAudio.cs",
+              "DocumentMoniker": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Audio\\CurrentAudio.cs",
+              "RelativeDocumentMoniker": "API WebTech\\Audio\\CurrentAudio.cs",
+              "ToolTip": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Audio\\CurrentAudio.cs",
+              "RelativeToolTip": "API WebTech\\Audio\\CurrentAudio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:01:47.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarAccu.cs",
+              "DocumentMoniker": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Car\\CarAccu.cs",
+              "RelativeDocumentMoniker": "API WebTech\\Car\\CarAccu.cs",
+              "ToolTip": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Car\\CarAccu.cs",
+              "RelativeToolTip": "API WebTech\\Car\\CarAccu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:18:41.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "API WebTech\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Controllers\\CarController.cs",
+              "RelativeToolTip": "API WebTech\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:16:07.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShutterController.cs",
+              "DocumentMoniker": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Controllers\\ShutterController.cs",
+              "RelativeDocumentMoniker": "API WebTech\\Controllers\\ShutterController.cs",
+              "ToolTip": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Controllers\\ShutterController.cs",
+              "RelativeToolTip": "API WebTech\\Controllers\\ShutterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:52:24.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Service\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "API WebTech\\Service\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\Christophe\\Desktop\\Programs\\School\\Webtechnologie\\WebTech-Project\\API\\API WebTech\\API WebTech\\Service\\DatabaseService.cs",
+              "RelativeToolTip": "API WebTech\\Service\\DatabaseService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAowDIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:28:54.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

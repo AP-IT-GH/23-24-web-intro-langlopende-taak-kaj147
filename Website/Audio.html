@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous" defer></script>
   <link rel="stylesheet" href="./css/style.css">
-  
+  <script src="./js/audioApi.js" defer></script>
 </head>
 
 <body class="px-3 pt-1 m-0 border-0 bd-example">
@@ -30,101 +30,77 @@
             <a class="nav-link navtextcolor" href="./dashboard.html">Dashboard</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link navtextcolor" href="./shop.html">Shop</a>
+            <a class="nav-link navtextcolor" href="./shop.html">Winkel</a>
           </li>
           <li class="nav-item">
             <a class="nav-link navtextcolor" href="./contact.html">Contact</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link navtextcolor" href="./About.html">About</a>
+            <a class="nav-link navtextcolor" href="./about.html">Over ons</a>
+          </li>
+        </ul>
+        <form class="d-flex" role="search">
+          <input class="form-control me-2" type="search" placeholder="zoeken" aria-label="Search">
+          <button class="btn btn-sm btn-outline-secondary" type="submit">zoeken</button>
+        </form>
+      </div>
+    </div>
+  </nav>
+   
+  <div class="row">
+    <nav class="col-md-4 navcolor sidenav">  
+      <div class="container-fluid p-2">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" href="./heat.html">Verwarming</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./lights.html">Lichten</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./shutter.html">Rolluiken</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./car.html">Auto</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./audio.html"><b>Muziek</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./security.html">Beveiliging</a>
           </li>
         </ul>
       </div>
-    </div>
-  </nav>
-
-  <nav class="navbar navcolor sidenav p-2">
-    <div class="container-fluid">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link" href="./Lights.html">Lights</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="./Shutter.html">Shutter</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" aria-current="page" href=""><b>Audio</b></a>
-        </li>
-      </ul>
-    </div>
-  </nav>
-
-  <br>
-  <div class="container p-5">
-    <main>
-      <div class="text">
+    </nav>
+    <main class="col-md-8 text m-5">
+      <div class="justify-content-between bd-example d-flex">
+        <img src="./assets/music.png" class="float-start img-fluid" height="100px" width="100px">
         <h1 class="text-center pt-3">
-          <img src="./assets/Music.png" class="float-start img-fluid" height="100px" width="100px">
-          Audio
-          <img src="./assets/Music.png" class="float-end img-fluid" height="100px" width="100px">
-          <hr>
+          Muziek
         </h1>
-        <br>
-        <section class="p-3 text" style="font-size: larger;">
-          <div class="container-fluid">            
-              <div class="row">
-                <div class="col">&nbsp;</div>
-                <div class="col">&nbsp;</div>
-                <div class="col nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="" role="button" data-bs-toggle="dropdown" aria-expanded="true">
-                    Playlist:
-                    <span>
-                      Playlist 1
-                    </span>
-                  </a>
-                  <ul class="dropdown-menu" data-bs-popper="static">
-                    <li><a class="dropdown-item" href="">Playlist 2</a></li>
-                    <li><a class="dropdown-item" href="">Playlist 3</a></li>
-                    <li><a class="dropdown-item" href="">Playlist 4</a></li>
-                  </ul>
-                </div>
-                <div class="col">&nbsp;</div>
-                <div class="col">&nbsp;</div>
-              </ul>
-          </div>
-          <div class="row">
-            <div class="col">&nbsp;</div>
-            <div class="col">&nbsp;</div>
-            <div class="col text-center pe-5">
-              <span>Song: </span><span>Song 1</span>
-            </div>
-            <div class="col">&nbsp;</div>
-            <div class="col">&nbsp;</div>
-          </div>
-          <div class="row">
-            <div class="col">&nbsp;</div>
-            <div class="col">&nbsp;</div>
-            <div class="col text-center pe-5">
-              <span>Artist: </span><span>Artist 1</span>
-            </div>
-            <div class="col">&nbsp;</div>
-            <div class="col">&nbsp;</div>
-          </div>
-          <div class="text-center pt-3">
-            <img src="./assets/Music Album.png" alt="Music Album">
-          </div>
-          <div class="text-center pt-3">
-            <label for="minTimeSong">1:18</label>
-            <progress value="32" max="100"></progress>
-            <label for="maxTimeSong">3:42</label>
-          </div>
-          <div class="text-center pt-3">
-            <button type="button" style="background-color: transparent;"><img src="./assets/Previous.png" alt="Previous Song"></button>
-            <button type="button" style="background-color: transparent; border-radius:0px;"><img src="./assets/Play.png" alt="Play" style="height: 70px; width: 80px;"></button>
-            <button type="button" style="background-color: transparent;"><img src="./assets/Next.png" alt="Next Song"></button>
-          </div>
-        </section>
+        <img src="./assets/music.png" class="float-end img-fluid" height="100px" width="100px">
       </div>
+      <hr>    
+        <section class="p-3 fs-5 text" id="Audio">
+            
+        </section>
+        <div class="text-center pt-3">
+          <img src="./assets/musicAlbum.png" alt="Music Album">
+        </div>
+
+        <div class="text-center pt-3">
+          <label for="minTimeSong">1:18</label>
+          <progress value="32" max="100"></progress>
+          <label for="maxTimeSong">3:42</label>
+        </div>
+        
+        <div class="text-center pt-3 pb-3">
+          <button type="button" class="buttonaudio"><img src="./assets/previous.png" alt="Previous Song"></button>
+          <button type="button" class="buttonaudio"><img src="./assets/play.png" alt="Play" style="height: 70px; width: 80px;"></button>
+          <button type="button" class="buttonaudio"><img src="./assets/next.png" alt="Next Song"></button>
+        </div>
     </main>
   </div>
+
+  <footer class="text-center fixed-bottom maincolor">&copy; 2024 Smarth2Home</footer>
 </body>
